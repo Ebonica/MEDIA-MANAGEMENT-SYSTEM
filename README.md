@@ -1,8 +1,8 @@
-🎬 MediaHub – Media Management System
+🎬 #MediaHub – Media Management System
 
 A full-stack Media Management System designed to manage, organize, and analyze multimedia content efficiently. This platform enables users to upload videos, manage channels, create playlists, and gain insights through analytics dashboards.
 
-🚀 Project Overview
+🚀 #Project Overview
 
 In today’s digital era, multimedia content plays a crucial role in communication, education, and entertainment. However, existing platforms like YouTube do not provide full control over content and analytics.
 
@@ -12,14 +12,14 @@ Customizable platform for institutions
 Detailed analytics insights
 Full ownership of data
 
-🎯 Objectives
+🎯 #Objectives
 Provide a secure platform for managing multimedia content
 Enable structured organization via channels and playlists
 Support user interaction (likes, comments, subscriptions)
 Deliver analytics for performance tracking
 Build using scalable and open-source technologies
 
-🧠 System Architecture
+🧠 #System Architecture
 
 The system follows a 3-tier architecture:
 
@@ -46,7 +46,7 @@ Videos
 Comments
 Playlists
 
-🛠️ Tech Stack
+🛠️ #Tech Stack
 Language: Python 3.11
 Frontend: Streamlit
 Backend: Python
@@ -54,7 +54,7 @@ Database: MongoDB
 Visualization: Plotly
 Libraries: PyMongo, Pandas, NumPy
 
-📦 Features
+📦 #Features
 
 👤 User Management
 Registration & Login
@@ -119,7 +119,8 @@ pip install -r requirements.txt
 # Run the application
 streamlit run app.py
 
-📸 Screens Included
+📸 #Screens Included
+
 Login Page
 Registration Page
 Home Dashboard
@@ -130,18 +131,24 @@ Playlist Management
 Analytics Dashboard
 Account Settings
 
-🔮 Future Enhancements
+🔮 #Future Enhancements
+
 Video streaming optimization
 AI-based recommendations
 Advanced analytics (ML models)
 Mobile application support
 Cloud deployment
 
-📌 Conclusion
+📌 #Conclusion
+
 MediaHub provides a scalable, flexible, and user-friendly platform for managing multimedia content with complete control and analytics, making it ideal for educational institutions and organizations.
 
-👩‍💻 Author
+👩‍💻 #Author
+
 Ebonica Saleth V
+
 LinkedIn https://www.linkedin.com/in/ebonica-saleth-92b268224/
-📜 License
+
+📜 #License
+
 This project is developed for academic and educational purposes.
