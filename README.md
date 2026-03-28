@@ -92,21 +92,31 @@ Interactive charts using Plotly
 🗄️ Database Design
 The system is based on an Enhanced Entity Relationship (EER) Model including:
 
-Main Entities:
+# Main Entities:
+
 User (Creator / Viewer)
+
 Channel
+
 Video
+
 Playlist
+
 Comment
 
-Key Relationships:
-User → Channel (1:N)
+# Key Relationships:
+
+User → Channel (1:N
+
 Channel → Video (1:N)
+
 User → Playlist (1:N)
+
 User ↔ Channel (M:N - Subscription)
+
 Video → Comment (1:N)
 
-⚙️ Installation & Setup
+# Installation & Setup
 # Clone the repository
 git clone https://github.com/your-username/mediahub.git
 
@@ -149,6 +159,6 @@ Ebonica Saleth V
 
 LinkedIn https://www.linkedin.com/in/ebonica-saleth-92b268224/
 
-📜 #License
+# License
 
 This project is developed for academic and educational purposes.
